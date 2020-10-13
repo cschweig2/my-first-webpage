@@ -27,8 +27,8 @@ _I used VS Code to create with webpage using HTML._
 
 ## Legal
 
-Copyright (c) 2020 **_Chelsea Becker_**
-
 *This software is licensed under the MIT license.*
+
+Copyright (c) 2020 **_Chelsea Becker_**
 
 
